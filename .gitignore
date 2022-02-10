@@ -1,0 +1,6 @@
+venv/
+.vscode/
+.ipynb_checkpoints/
+tmp_trainer/
+NERGenderBias/
+sketchy*
